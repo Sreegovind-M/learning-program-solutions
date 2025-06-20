@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2173412-adaf-48f2-a51d-7b12dec40ac1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SingletonPatternExample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+    <list default="true" id="f2173412-adaf-48f2-a51d-7b12dec40ac1" name="Changes" comment="Implementation of SingletonPatternExample.iml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +45,21 @@
       <option name="presentableId" value="Default" />
       <updated>1750440585858</updated>
     </task>
+    <task id="LOCAL-00001" summary="Implementation of SingletonPatternExample.iml">
+      <created>1750441110443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750441110443</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Implementation of SingletonPatternExample.iml">
+      <created>1750441332684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750441332684</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implementation of SingletonPatternExample.iml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementation of SingletonPatternExample.iml" />
   </component>
 </project>
